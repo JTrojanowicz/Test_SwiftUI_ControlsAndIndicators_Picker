@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+// https://developer.apple.com/documentation/swiftui/picker
+
 @main
 struct Test_SwiftUI_ControlsAndIndicators_PickerApp: App {
     var body: some Scene {
